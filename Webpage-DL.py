@@ -1,5 +1,5 @@
 import requests
-
+ 
 # collect the webpage content
 def capture_url():
     url = input("Enter the url of the webpage: ")
